@@ -14,7 +14,6 @@ Running Test
 
 To run the test for e.g. a solid:
 python argon_simulator.py solid_traj.xyz solid_obs.txt particles_solid.txt param_solid.txt
-
 To run for a liquid and gas:
 python argon_simulator.py liquid_traj.xyz liquid_obs.txt particles_liquid.txt param_liquid.txt
 python argon_simulator.py gas_traj.xyz gas_obs.txt particles_gas.txt param_gas.txt
