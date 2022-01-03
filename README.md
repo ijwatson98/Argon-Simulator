@@ -14,7 +14,7 @@ pbc.py – module containing functions to return particle positions in periodic 
 
 ljpotenyial.py – module to apply Lennard Jones potential condition.
 
-Running Test
+Running Test (in terminal)
 
 To run the test for e.g. a solid:
 
