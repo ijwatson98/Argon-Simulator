@@ -1,4 +1,4 @@
-# Argon-Simulator
+# Argon Simulator
 
 These instructions provide details on how to run the code.
 
